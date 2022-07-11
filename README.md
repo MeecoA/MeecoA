@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MeecoA
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack JavaScript 
-- 📫 You can email me at meecorcll@gmail.com
+- 📫 You can email me at meecorcll@gmail.com 
+- https://www.linkedin.com/in/meeco-arcilla-864399243/
 
 <!---
 MeecoA/MeecoA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
