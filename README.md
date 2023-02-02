@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @MeecoA
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack JavaScript 
-- 📫 You can email me at meecorcll@gmail.com 
-- https://www.linkedin.com/in/meeco-arcilla-864399243/
-
 <h1 align="center">Hi 👋, I'm Meeco Arcilla</h1>
 <h3 align="center">A BSIT Student from Bulacan State University</h3>
 
@@ -14,6 +8,9 @@
 - 💬 Ask me about **react, javascript, firebase, html, css**
 
 - 📫 How to reach me **meecorcll@gmail.com**
+
+- https://www.linkedin.com/in/meeco-arcilla-864399243/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
