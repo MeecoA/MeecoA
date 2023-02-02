@@ -9,9 +9,6 @@
 
 - 📫 How to reach me **meecorcll@gmail.com**
 
-- https://www.linkedin.com/in/meeco-arcilla-864399243/
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
