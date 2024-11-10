@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meecoa" alt="meecoa" /></a> </p>
 
-- 🌱 I’m currently learning **Angular and React**
+- 🌱 I’m currently learning **Python and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MeecoA](https://github.com/MeecoA)
 
